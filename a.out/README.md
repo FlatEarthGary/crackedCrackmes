@@ -1,4 +1,4 @@
-## Write up on the a.out challenge on Crackmes (https://crackmes.one/upload/solution/5f05ec3c33c5d42a7c66792b)
+## Write up on the a.out challenge on Crackmes (https://crackmes.one/crackme/5f05ec3c33c5d42a7c66792b)
 
 Hi, this is my absolute first crack and I'm really happy that I managed to crack it successfully.
 
