@@ -2,7 +2,7 @@
 
 Hi, this is my absolute first crack and I'm really happy that I managed to crack it successfully.
 
-This is how I did:
+This is how I did it:
 
 1. I opened the file in gdb
 
@@ -21,7 +21,7 @@ This is how I did:
     We notice that there's alot more output this time.
     I read through the output and focues mainly on "call", "test", "jne" and "jmp" since they control the flow of the program.
     
-    On the first "calL" we see that it calls the function "printf" which prints text to the screen, however when we run it
+    On the first "call" we see that it calls the function "printf" which prints text to the screen, however when we run it
     we don't notice any output but it continues to run without problem. 
     
 4. If we take a look at the call to "fgets" we know that, that function takes user input so we set a break point just before it to make sure.
